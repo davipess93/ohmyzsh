@@ -1,2 +1,2 @@
-# ohmyzsh
-Configuração do OhMyZsh
+# OhMyZsh
+Meu pessoal arquivo de configuração do OhMyZsh
