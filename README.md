@@ -1,0 +1,2 @@
+# ohmyzsh
+Configuração do OhMyZsh
